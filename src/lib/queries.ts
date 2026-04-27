@@ -1,3 +1,4 @@
+"use server";
 import { prisma } from '../db'
 import { createServerFn } from '@tanstack/react-start'
 

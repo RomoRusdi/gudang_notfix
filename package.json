@@ -23,6 +23,7 @@
   "dependencies": {
     "@prisma/adapter-pg": "^7.4.2",
     "@prisma/client": "^7.4.2",
+    "@prisma/config": "^7.8.0",
     "@rsbuild/core": "^2.0.1",
     "@tailwindcss/vite": "^4.1.18",
     "@tanstack/react-devtools": "latest",
